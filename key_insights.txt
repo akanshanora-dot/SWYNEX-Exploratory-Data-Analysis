@@ -1,0 +1,7 @@
+1. The dataset contains 147 rows and 5 columns.
+2. There are 3 species: iris-versicolor (50 records), iris-virginica (49 records), iris-setosa (48 records).
+3. Missing values: 0 across all columns.
+4. Iris-virginica has the largest average sepal length (6.60 cm) among the three species.
+5. Iris-setosa has the smallest average petal length (1.46 cm) and petal width (0.25 cm).
+6. Petal length and petal width have a strong positive correlation (r = 0.96); larger petal lengths tend to accompany larger petal widths.
+7. Petal length and sepal length are also strongly positively correlated (r = 0.87).
